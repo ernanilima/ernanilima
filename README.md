@@ -1,4 +1,13 @@
-### Hi there 👋
+Gosto de Java e como a maioria eu comecei no desktop porque eu desconhecia/desconheço um bom ERP Web para Supermercado.
+
+Esse ano de 2021 eu decidi que irei trabalhar como programador, por esse motivo atualmente estou estudando muito mais e focando em Web e Mobile.
+
+Já trabalhei com inúmeros sistemas de gestão voltados para Supermercados, por esse motivo tenho uma vasta experiencia em Regra de Negócio de Supermercado.
+
+Comecei a programar em 2017 como hobby, eu nunca esqueço que comecei a estudar mais porque um programador me falou "se você deseja essa implementação, faça seu próprio erp"
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernanilima/)](https://www.linkedin.com/in/ernanilima)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ernanili/)](https://www.instagram.com/ernanili/)
 
 <!--
 **ernanilima/ernanilima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
