@@ -1,25 +1,42 @@
-Gosto de Java e como a maioria eu comecei no desktop porque eu desconhecia/desconheço um bom ERP Web para Supermercado.
+Olá 👋
 
-Esse ano de 2021 eu decidi que irei trabalhar como programador, por esse motivo atualmente estou estudando muito mais e focando em Web e Mobile.
+Sou um entusiasta da tecnologia que mora em Curitiba/PR. Atualmente trabalho como Analista de Suporte Pleno para uma software house de ERP para Supermercados.
 
-Já trabalhei com inúmeros sistemas de gestão voltados para Supermercados, por esse motivo tenho uma vasta experiencia em Regra de Negócio de Supermercado.
+Comecei estudando aplicações para Desktop e Mobile Nativo em Java, mas nos últimos meses estou estudando mais Web e Mobile Hibrido.
 
-Comecei a programar em 2017 como hobby, eu nunca esqueço que comecei a estudar mais porque um programador me falou "se você deseja essa implementação, faça seu próprio erp"
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernanilima/)](https://www.linkedin.com/in/ernanilima)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ernanili/)](https://www.instagram.com/ernanili/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernanilima/)](https://www.linkedin.com/in/ernanilima)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ernanili/)](https://www.instagram.com/ernanili/)
 
-<!--
-**ernanilima/ernanilima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary> <b> Quer saber mais sobre mim? </b> <i> (Clique aqui para expandir)</i> </summary>
+  
+### Coisas que me interessam profundamente
+- Boa arquitetura de software ⚙️
+- Pessoas (e clientes!) 👨‍
+  
+### Tecnologias
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaFx](https://img.shields.io/badge/JavaFx-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=for-the-badge&logo=typescript&logoColor=fff)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Ionic](https://img.shields.io/badge/-Ionic-498AFF?style=for-the-badge)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=for-the-badge)
+  ![H2](https://img.shields.io/badge/-H2-0000CC?style=for-the-badge)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+  ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white)
+  
+  ![Visitas ao perfil](https://komarev.com/ghpvc/?username=your-github-ernanilima&label=Visitas+ao+perfil)
+</details>
