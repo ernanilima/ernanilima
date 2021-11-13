@@ -1,9 +1,6 @@
 Olá 👋
 
-Sou um entusiasta da tecnologia que mora em Curitiba/PR. Atualmente trabalho como Analista de Suporte Pleno para uma software house de ERP para Supermercados.
-
-Comecei estudando aplicações para Desktop e Mobile Nativo em Java, mas nos últimos meses estou estudando mais Web e Mobile Hibrido.
-
+Desenvolvedor Android que mora em Curitiba/PR.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernanilima/)](https://www.linkedin.com/in/ernanilima)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ernanili/)](https://www.instagram.com/ernanili/)
@@ -13,20 +10,22 @@ Comecei estudando aplicações para Desktop e Mobile Nativo em Java, mas nos úl
   
 ### Coisas que me interessam profundamente
 - Boa arquitetura de software ⚙️
-- Pessoas (e clientes!) 👨‍
+- Pessoas 👨‍
   
 ### Tecnologias
 
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![JavaFx](https://img.shields.io/badge/JavaFx-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=for-the-badge&logo=typescript&logoColor=fff)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-  ![Ionic](https://img.shields.io/badge/-Ionic-498AFF?style=for-the-badge)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=for-the-badge&logo=typescript&logoColor=fff)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
