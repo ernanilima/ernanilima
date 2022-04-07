@@ -1,6 +1,6 @@
 Olá 👋
 
-Desenvolvedor Android que mora em Curitiba/PR.
+Desenvolvedor que mora em Curitiba/PR.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ernanilima/)](https://www.linkedin.com/in/ernanilima)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/ernanili/)](https://www.instagram.com/ernanili/)
